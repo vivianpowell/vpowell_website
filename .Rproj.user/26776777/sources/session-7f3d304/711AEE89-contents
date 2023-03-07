@@ -1,0 +1,11 @@
+---
+title: "Water Quality"
+description: "An ongoing project examining contamination and water quality in Minnesota"
+image: featured.png
+categories:
+  - Research
+  - Visualizations
+about:
+  template: solana
+  image: featured.png
+---

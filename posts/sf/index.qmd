@@ -1,0 +1,8 @@
+---
+title: "Mapping in R with sf"
+description: "A learning guide for creating maps in R using the sf package and ggplot2"
+image: featured.png
+about:
+  template: solana
+  image: featured.png
+---

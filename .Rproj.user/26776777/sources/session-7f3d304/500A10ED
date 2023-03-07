@@ -1,0 +1,31 @@
+{
+    "id": "500A10ED",
+    "path": "~/Desktop/vpowell_website/posts/sf/index.qmd",
+    "project_path": "posts/sf/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "699453448",
+    "contents": "",
+    "dirty": false,
+    "created": 1678207343882.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "143:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1678207433,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678207433258,
+    "read_only": false,
+    "read_only_alternatives": []
+}
